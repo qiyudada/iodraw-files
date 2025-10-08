@@ -182,7 +182,7 @@
           <mxGeometry x="1526.89" y="3830" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UyplMnwyi7haGmuhOR94-62" value="程序写入，注册设备&lt;div&gt;platform_device_register(&amp;amp;esp_jazz_driver)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="1350" width="250" height="40" as="geometry" />
+          <mxGeometry x="934.54" y="1710" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
