@@ -58,8 +58,8 @@
             <mxPoint x="887" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UyplMnwyi7haGmuhOR94-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="UyplMnwyi7haGmuhOR94-16" value="Platform bus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
