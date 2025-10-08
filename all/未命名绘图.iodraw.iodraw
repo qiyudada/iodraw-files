@@ -13,7 +13,10 @@
             <mxPoint x="1040" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UyplMnwyi7haGmuhOR94-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UyplMnwyi7haGmuhOR94-3" value="IIC bus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UyplMnwyi7haGmuhOR94-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
