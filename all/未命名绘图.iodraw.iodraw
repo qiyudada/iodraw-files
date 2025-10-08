@@ -22,6 +22,9 @@
         <mxCell id="UyplMnwyi7haGmuhOR94-5" value="USB bus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UyplMnwyi7haGmuhOR94-6" value="USB bus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
